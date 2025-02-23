@@ -55,8 +55,15 @@ export const ProjectSec = () => {
           demoLink="https://billssystem.netlify.app/"
           sourceCodeLink="https://github.com/SenthilL13/Billingsystem"
         />
+        <ProjectCardSec
+          title="Online food order"
+          main="An Online Food Ordering System that allows users to browse, order, and track their favorite meals seamlessly! It provides a user-friendly interface for customers to explore restaurant menus and customize their orders.  Restaurants can efficiently manage orders, add and update menus, and monitor sales and orders through an interactive admin panel."
+          imgSrc="/assets/foodorder.png"
+          //demoLink="https://online.netlify.app/"
+          sourceCodeLink="https://github.com/SenthilL13/online_food_order"
+        />
       </div>
-    </div>
+    </div>  
   );
 };
 
