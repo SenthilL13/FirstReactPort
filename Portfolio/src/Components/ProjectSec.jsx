@@ -48,20 +48,6 @@ export const ProjectSec = () => {
           // demoLink="https://gourabofficial.github.io/Tic-Tac-Toe-Game/"
           sourceCodeLink="https://github.com/SenthilL13/Road_Vehicle_analysis"
         />
-         <ProjectCardSec
-          title="Billing System"
-          main="Create a new invoice bill and integrate it into the dashboard screen, allowing users to filter by date to extract the data into an Excel file. The bill should include features such as adding items, calculating totals, applying GST, updating, deleting, and more options for better management."
-          imgSrc="/assets/billing.png"
-          demoLink="https://billssystem.netlify.app/"
-          sourceCodeLink="https://github.com/SenthilL13/Billingsystem"
-        />
-        <ProjectCardSec
-          title="Online food order"
-          main="An Online Food Ordering System that allows users to browse, order, and track their favorite meals seamlessly! It provides a user-friendly interface for customers to explore restaurant menus and customize their orders.  Restaurants can efficiently manage orders, add and update menus, and monitor sales and orders through an interactive admin panel."
-          imgSrc="/assets/foodorder.png"
-          //demoLink="https://online.netlify.app/"
-          sourceCodeLink="https://github.com/SenthilL13/online_food_order"
-        />
       </div>
     </div>  
   );
