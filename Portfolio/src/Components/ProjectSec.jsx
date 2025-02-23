@@ -48,6 +48,13 @@ export const ProjectSec = () => {
           // demoLink="https://gourabofficial.github.io/Tic-Tac-Toe-Game/"
           sourceCodeLink="https://github.com/SenthilL13/Road_Vehicle_analysis"
         />
+         <ProjectCardSec
+          title="Billing System"
+          main="Create a new invoice bill and integrate it into the dashboard screen, allowing users to filter by date to extract the data into an Excel file. The bill should include features such as adding items, calculating totals, applying GST, updating, deleting, and more options for better management."
+          imgSrc="https://ibb.co/Nd2kp92S"
+          demoLink="https://billssystem.netlify.app/"
+          sourceCodeLink="https://github.com/SenthilL13/Billingsystem"
+        />
       </div>
     </div>
   );
